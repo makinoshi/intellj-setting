@@ -1492,8 +1492,8 @@
         <entry key="*.rules">
           <value>
             <plugin>
-              <option name="myPluginId" value="co.anbora.labs.firebase-syntax-highlighting" />
-              <option name="myPluginName" value="Firebase Rules Syntax Highlighter" />
+              <option name="myPluginId" value="SnakeCharm" />
+              <option name="myPluginName" value="SnakeCharm" />
             </plugin>
           </value>
         </entry>
