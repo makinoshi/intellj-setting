@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <removed_mapping ext="tsv" type="CSV/TSV" />
-      <mapping ext="tsv" type="TSV" />
+      <mapping ext="tsv" type="CSV/TSV" />
+      <removed_mapping ext="tsv" type="TSV" />
       <mapping pattern="light-plan-over-update-limit.mustache" type="TypeScript" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="csv" approved="true" type="CSV" />
