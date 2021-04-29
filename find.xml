@@ -12,6 +12,7 @@
     <mask>*.java</mask>
     <mask>*.clj?</mask>
     <mask>*.sql</mask>
+    <mask>*.clj</mask>
     <mask>*.clj*</mask>
   </component>
 </application>
