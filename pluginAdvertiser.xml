@@ -64,7 +64,7 @@
                   </entry>
                   <entry key="CucumberJavaRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Cucumber Java" pluginName="Cucumber for Java" pluginId="cucumber-java" />
+                      <FeaturePluginData displayName="Cucumber Java" pluginName="Cucumber for Java" pluginId="cucumber-java" bundled="true" />
                     </value>
                   </entry>
                   <entry key="DartCommandLineRunConfigurationType">
@@ -149,7 +149,7 @@
                   </entry>
                   <entry key="GroovyScriptRunConfiguration">
                     <value>
-                      <FeaturePluginData displayName="Groovy" pluginName="Groovy" pluginId="org.intellij.groovy" />
+                      <FeaturePluginData displayName="Groovy" pluginName="Groovy" pluginId="org.intellij.groovy" bundled="true" />
                     </value>
                   </entry>
                   <entry key="HttpClient.HttpRequestRunConfigurationType">
@@ -199,17 +199,17 @@
                   </entry>
                   <entry key="JetRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Kotlin" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
+                      <FeaturePluginData displayName="Kotlin" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" bundled="true" />
                     </value>
                   </entry>
                   <entry key="KotlinJavaScriptTestRunnerProtractor">
                     <value>
-                      <FeaturePluginData displayName="Protractor (Kotlin)" pluginName="org.jetbrains.kotlin" pluginId="org.jetbrains.kotlin" />
+                      <FeaturePluginData displayName="Protractor (Kotlin)" pluginName="org.jetbrains.kotlin" pluginId="org.jetbrains.kotlin" bundled="true" />
                     </value>
                   </entry>
                   <entry key="KotlinStandaloneScriptRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Kotlin script" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
+                      <FeaturePluginData displayName="Kotlin script" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" bundled="true" />
                     </value>
                   </entry>
                   <entry key="LeiningenRunConfiguration">
@@ -229,7 +229,7 @@
                   </entry>
                   <entry key="MicronautRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Micronaut" pluginName="Micronaut" pluginId="com.intellij.micronaut" />
+                      <FeaturePluginData displayName="Micronaut" pluginName="Micronaut" pluginId="com.intellij.micronaut" bundled="true" />
                     </value>
                   </entry>
                   <entry key="NodeJSConfigurationType">
@@ -339,7 +339,7 @@
                   </entry>
                   <entry key="TestNG">
                     <value>
-                      <FeaturePluginData displayName="TestNG" pluginName="TestNG" pluginId="TestNG-J" />
+                      <FeaturePluginData displayName="TestNG" pluginName="TestNG" pluginId="TestNG-J" bundled="true" />
                     </value>
                   </entry>
                   <entry key="Tox">
@@ -439,7 +439,7 @@
                   </entry>
                   <entry key="kotlin-language">
                     <value>
-                      <FeaturePluginData displayName="Kotlin" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
+                      <FeaturePluginData displayName="Kotlin" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" bundled="true" />
                     </value>
                   </entry>
                   <entry key="native-android-gradle">
