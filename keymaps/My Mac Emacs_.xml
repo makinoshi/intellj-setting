@@ -184,9 +184,7 @@
   <action id="Emacs+.ISMultiLine">
     <keyboard-shortcut first-keystroke="meta m" />
   </action>
-  <action id="Emacs+.ISRegex">
-    <keyboard-shortcut first-keystroke="meta r" />
-  </action>
+  <action id="Emacs+.ISRegex" />
   <action id="Emacs+.ISWords">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
@@ -233,7 +231,7 @@
     <keyboard-shortcut first-keystroke="escape" second-keystroke="ctrl back_space" />
   </action>
   <action id="Emacs+.QueryReplace">
-    <keyboard-shortcut first-keystroke="shift meta 5" />
+    <keyboard-shortcut first-keystroke="meta r" />
   </action>
   <action id="Emacs+.QueryReplaceRegexp">
     <keyboard-shortcut first-keystroke="shift ctrl meta 5" />
